@@ -1,0 +1,11 @@
+Teacher, Ahmed,
+Subject, cs101,
+Group, A,
+Teacher, omer,
+Subject,cs200,
+Group, B,
+Teacher, Ali,
+Subject,cs114,
+Group, A,
+
+

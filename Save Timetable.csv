@@ -1,0 +1,37 @@
+Teacher,Subject,Student Group,Day,Time Slot
+omer,Algebra 101,A,Saturday,8:00-10:00
+Ahmed,Algebra 101,A,Saturday,10:00-12:00
+Ahmed,Algebra 101,B,Saturday,12:00-14:00
+Ali,Algebra 101,B,Saturday,14:00-16:00
+Ahmed,Algebra 101,A,Saturday,16:00-18:00
+Ahmed,Algebra 101,C,Saturday,18:00-20:00
+Ali,Algebra 101,C,Sunday,8:00-10:00
+Ahmed,Algebra 102,B,Sunday,10:00-12:00
+Ali,Algebra 102,B,Sunday,12:00-14:00
+Ahmed,Algebra 102,A,Sunday,14:00-16:00
+Ahmed,Algebra 102,C,Sunday,16:00-18:00
+Ali,Algebra 102,C,Sunday,18:00-20:00
+Ahmed,cs400,B,Monday,8:00-10:00
+Ali,cs400,B,Monday,10:00-12:00
+Ahmed,Algebra 102,A,Monday,12:00-14:00
+Ahmed,cs400,C,Monday,14:00-16:00
+Ali,cs400,C,Monday,16:00-18:00
+Ahmed,cs300,B,Monday,18:00-20:00
+Ali,cs300,B,Tuesday,8:00-10:00
+Ahmed,cs400,A,Tuesday,10:00-12:00
+Ahmed,cs300,C,Tuesday,12:00-14:00
+Ali,cs300,C,Tuesday,14:00-16:00
+Ahmed,cs523,B,Tuesday,16:00-18:00
+Ali,cs523,B,Tuesday,18:00-20:00
+Ahmed,cs300,A,Wednesday,8:00-10:00
+Ahmed,cs523,C,Wednesday,10:00-12:00
+Ali,cs523,C,Wednesday,12:00-14:00
+omer,Algebra 101,A,Wednesday,14:00-16:00
+omer,Algebra 101,A,Wednesday,16:00-18:00
+Ahmed,cs300,A,Wednesday,18:00-20:00
+omer,Algebra 102,A,Thursday,8:00-10:00
+Ahmed,cs523,A,Thursday,10:00-12:00
+omer,Algebra 102,A,Thursday,12:00-14:00
+omer,Algebra 102,A,Thursday,14:00-16:00
+Ahmed,cs523,A,Thursday,16:00-18:00
+omer,cs400,A,Thursday,18:00-20:00

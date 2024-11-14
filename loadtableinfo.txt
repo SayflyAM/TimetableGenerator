@@ -1,0 +1,35 @@
+Teacher, Ahmed,
+Subject, Algebra 101,
+Group, A,
+
+Teacher, Ahmed,
+Subject, Algebra 102,
+Group, B,
+
+Teacher, omer,
+Subject, cs400,
+Group, A,
+
+Teacher, omer,
+Subject, cs300,
+Group, B,
+
+Teacher, Ali,
+Subject, cs523,
+Group, C,
+
+Teacher, Sarah,
+Subject, English 101,
+Group, A,
+
+Teacher, Sarah,
+Subject, English 102,
+Group, C,
+
+Teacher, John,
+Subject, Physics 101,
+Group, B,
+
+Teacher, John,
+Subject, Physics 102,
+Group, A,
